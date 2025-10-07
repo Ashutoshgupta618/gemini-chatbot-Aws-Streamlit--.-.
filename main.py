@@ -1,5 +1,6 @@
 def main():
-    print("Hello from kltrp!")
+    print("Hello from ashutosh ")
+    printf(" please ask valid question") 
 
 
 if __name__ == "__main__":
