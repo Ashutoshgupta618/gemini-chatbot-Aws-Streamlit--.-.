@@ -28,8 +28,9 @@ pip install -r requirement.txt
 
 (Alternatively, if you use the uv package manager, simply run uv sync)
 
-💻 How to Run Locally
-Option 1: Running with Python
+## 💻 How to Run Locally
+
+# Option 1: Running with Python
 Clone the repository:
 
 Bash
