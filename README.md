@@ -58,7 +58,8 @@ docker build -t genai-chatbot .
 docker run -p 8501:8501 -e GEMINI_API_KEY="your_api_key_here" genai-chatbot
 
 
-📦 Project Structure
+## 📦 Project Structure
+
 app.py / main.py — Core application script, Gemini API integration, and Streamlit UI.
 
 Dockerfile — Instructions to containerize the app for Docker and AWS deployment.
